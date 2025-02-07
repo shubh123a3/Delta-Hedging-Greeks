@@ -2,7 +2,7 @@ Below is a very detailed README file in Markdown format that includes theory, ma
 
 ---
 
-```markdown
+
 # Delta-Hedging-Greeks
 
 Delta-Hedging-Greeks is a Streamlit application that demonstrates delta hedging strategies and computes option Greeks using both analytical formulas (via the Black-Scholes model and Merton jump-diffusion) and pathwise sensitivity methods. The app is modular, with each component organized into separate files and then combined into one interactive interface.
